@@ -1,6 +1,6 @@
 # Classification of Mushrooms
 
-In this project, I have used a dataset freely available on Kaggle to build a machine learning model for classifying mushrooms as either edible or poisonous.
+In this project, I have used a dataset freely available on [Kaggle](https://www.kaggle.com/datasets/uciml/mushroom-classification) to build a machine learning model for classifying mushrooms as either edible or poisonous.
 
 ## Problem Statement
 
