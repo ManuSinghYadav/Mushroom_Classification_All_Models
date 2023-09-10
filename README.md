@@ -30,4 +30,4 @@ As can be seen above, I explored two Ensemble Learning algorithms: Random Forest
 
 ## Results
 
-I am pleased to report that our models achieved nearly 100% accuracy during the evaluation phase. However, please note that the real-world application of these models may require further considerations and testing beyond this initial assessment.
+I am pleased to report that our models achieved nearly 100% accuracy during the evaluation phase.
